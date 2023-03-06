@@ -78,6 +78,7 @@
      background: linear-gradient(grey, grey) content-box no-repeat, conic-gradient(blue var(--inner_percent_deg,0%), 0, green ) border-box;
      display:flex;
      justify-content: center;
+	 align-items: center;
 }
  .clock-timer{
      font-size: 10vh;
